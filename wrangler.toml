@@ -1,0 +1,9 @@
+name = "hammal"
+account_id = "75156d9c742ccc2a70c9d20b7fe98c09"
+main = "src/index.ts"
+workers_dev = true
+compatibility_date = "2024-06-08"
+
+kv_namespaces = [
+	 { binding = "HAMMAL_CACHE", id = "1fd16cb04d23422cb70c92f83f3aa4a6" }
+]
